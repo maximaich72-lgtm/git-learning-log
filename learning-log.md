@@ -10,6 +10,6 @@ I'm learning Git and version control to track my work.
 - Make myself look cool while doing it
 ## What I Learned Today
 - Git tracks changes to files over time
-- This is soo cool
-- PS:you have to remember to do all of thisgit add learning-log.md
-git commit -m "Add What I Learned section"
+- Branches let you experiment without affecting the main project
+- You can merge branches back together when ready...
+- Feel like i dont know shit tho
