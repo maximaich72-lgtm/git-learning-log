@@ -11,4 +11,5 @@ I'm learning Git and version control to track my work.
 ## What I Learned Today
 - Git tracks changes to files over time
 - This is soo cool
-- PS:you have to remember to do all of this
+- PS:you have to remember to do all of thisgit add learning-log.md
+git commit -m "Add What I Learned section"
